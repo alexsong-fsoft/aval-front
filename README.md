@@ -1,27 +1,14 @@
-# AvalFront
+# FRONT_AVAL
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
+front-end para la prueba de laboratorio de Aval Buro.
 
-## Development server
+# Instalacion
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+A continuacion los pasos para levantar el aplicativo en local
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+ 1. Descargar el fuente del repositorio git https://github.com/alexsong-fsoft/aval-front.git
+ 2. Abrir el proyecto con Visual Studio Code
+ 3. Instalar las dependencias npm: Abrir una terminal en la raiz del proyecto, ejecutar el comando: npm install
+ 4. Levantar la aplicacion: Ejecutar el comando ng serve -o --port 4200
+ 5. La aplicacion se levantara en el puerto 4200 para probarla abrir la siguiente url http://localhost:4200/home
+ 

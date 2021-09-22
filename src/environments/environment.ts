@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   apiUrl: 'http://localhost:4203/aval-api/',
-  socketUrl: 'http://localhost:4203'
+  socketUrl: 'https://eae9-157-100-75-150.ngrok.io'
 };
 
 /*
