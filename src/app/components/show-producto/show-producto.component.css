@@ -1,0 +1,29 @@
+
+:host {
+	display: block ;
+	font-size: 18px ;
+}
+
+.node__label {
+    color: red ;
+    cursor: pointer ;
+    text-decoration: underline ;
+}
+
+.node__children {
+    border-left: 3px solid #CCCCCC ;
+    margin: 5px 0px 5px 30px ;
+    padding-left: 10px ;
+}
+
+.node__selected > .node__label {
+    background-color: red ;
+    color: white ;
+    font-weight: bold ;
+}
+
+.note {
+	color: #999999 ;
+	font-size: 15px ;
+	font-style: italic ;
+}
